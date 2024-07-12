@@ -1,6 +1,7 @@
 print("My friend very like Pmarusama, so I create this file.")
 
-names = ['Natsume_Iroha', 'Asagi_Mutsuki', 'Shishidou_Izumi', 'Nakamasa_Ichika']
+names = ['Natsume_Iroha', 'Asagi_Mutsuki',
+         'Shishidou_Izumi', 'Nakamasa_Ichika']
 print(names)
 
 cant_coming = 'Nakamasa_Ichika'
